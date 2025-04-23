@@ -23,8 +23,10 @@ I'm a self-taught blockchain developer passionate about building decentralized s
 
 ---
 
-## 📊 GitHub Stats
-![Hafiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafiz-web3&show_icons=true&theme=default)
+## 🚧 Currently Learning
+- Advanced Solidity & Smart Contract Security
+- dApp development using Hardhat & Web3.js
+- Exploring DeFi protocols and DAO governance models
 
 ---
 
