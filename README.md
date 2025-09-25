@@ -1,38 +1,46 @@
-# Hi there, I'm Hafiz 👋
+<h1 align="center">Wan Mohd Hafiz Bin Wan Idris</h1>
 
-[![Solidity](https://img.shields.io/badge/Solidity-Ethereum-blue)](https://ethereum.org/en/developers/docs/smart-contracts/)
-[![Web3](https://img.shields.io/badge/Web3-Developer-green)](https://web3.foundation/)
-[![Ethereum](https://img.shields.io/badge/Blockchain-EVM-orange)](https://ethereum.org/en/)
+<p align="center">
+  <b>Blockchain Engineer • Smart Contracts (Solidity/Rust) • Web3 Startup Operator</b><br/>
+  XRP advocate since 2017 • Ex-Founder/CEO (Lokein) • SEA gov/corporate partnerships
+</p>
 
-🎯 **Aspiring Blockchain Developer | Smart Contract Engineer (Solidity) | Web3 Enthusiast**
-
-I'm a self-taught blockchain developer passionate about building decentralized solutions using **Solidity** on Ethereum and other EVM-compatible chains. I leverage AI tools and automation to accelerate development and problem-solving in the Web3 space.
-
----
-
-## 🚀 My Blockchain Projects
-- 🪙 [ERC-20 Token Example](https://github.com/hafiz-web3/ERC-20-Token-Example)  
-- 🎨 [NFT Minting Contract](https://github.com/hafiz-web3/NFT-Minting-Contract)  
-- 📈 [DeFi Staking Contract](https://github.com/hafiz-web3/DeFi-Staking-Contract)  
-- 🗳️ [DAO Voting System](https://github.com/hafiz-web3/DAO-Voting-System)  
+<p align="center">
+  📧 <a href="mailto:hafiz@lokein.com">hafiz@lokein.com</a> |
+  📞 +60 17-256 8780 |
+  🔗 <a href="https://www.linkedin.com/in/wanmohdhafizwanidris/">LinkedIn</a> |
+  👨‍💻 <a href="https://github.com/hafiz-web3">github.com/hafiz-web3</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-`Solidity` • `Ethereum` • `EVM` • `Hardhat` • `Remix` • `OpenZeppelin` • `Web3.js` • `AI-Assisted Dev`
+### 👋 About me
+- Smart contract engineer focused on **DeFi, payments, oracles, and security**.
+- Comfortable bridging **engineering ↔ business** (startup founder background, C-level stakeholder mgmt).
+- Hands-on with **Solidity/Foundry/Hardhat**, **TypeScript/Node/React**, and **Rust/Anchor (Solana)**.
+- Actively contributing, learning, and building production-grade code with **tests and audits in mind**.
+
+### 🔧 Tech
+`Solidity` · `Rust` · `TypeScript` · `Node.js` · `React/Next.js` · `Foundry` · `Hardhat` · `OpenZeppelin` · `ethers.js/viem`  
+`Chainlink` · `ERC-20/721/1155` · `GraphQL` · `PostgreSQL` · `Docker` · `AWS` · `CI/CD`
+
+### 🚀 Highlighted projects
+- **chainlink-oracle-consumer** – Minimal examples consuming price feeds & VRF; patterns for safe oracle usage.
+- **defi-vault-foundry** – ERC-4626 style vault (deposit/withdraw, share accounting, reentrancy-safe) with tests.
+- **solana-staking-anchor** – SPL staking program (Rust/Anchor) with on-chain tests.
+- **web3-dapp-starter** – Next.js + wagmi/viem + RainbowKit, hooks for connect, read/write, and unit tests.
+- **sec-playbook-smart-contracts** – Repro + fixes for common vulns (reentrancy, price-oracle abuse, underflow).
+- **startup-ops-templates** – Practical infra/playbooks from my founder journey (CI, issue templates, release flow).
+
+> Pinned repos below contain READMEs with setup, commands, and test coverage.
+
+### 📫 Contact
+- Email: **hafiz@lokein.com**
+- Open to **Remote** roles: Senior/Staff **Solidity/Rust Engineer**, **Smart Contract/Protocol**, or **Auditor**.
 
 ---
 
-## 🚧 Currently Learning
-- Advanced Solidity & Smart Contract Security
-- dApp development using Hardhat & Web3.js
-- Exploring DeFi protocols and DAO governance models
-
----
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/wanmohdhafizwanidris/) 
-[![Email](https://img.shields.io/badge/Email-hafiz@lokein.com-red)](mailto:hafiz@lokein.com)
-
----
-*“Driven by curiosity, powered by Blockchain & AI.”*
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hafiz-web3" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hafiz-web3&show_icons=true&count_private=true" alt="Stats" />
+</p>
