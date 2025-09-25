@@ -6,10 +6,7 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:hafiz@lokein.com">hafiz@lokein.com</a> |
-  📞 +60 17-256 8780 |
-  🔗 <a href="https://www.linkedin.com/in/wanmohdhafizwanidris/">LinkedIn</a> |
-  👨‍💻 <a href="https://github.com/hafiz-web3">github.com/hafiz-web3</a>
+  🔗 <a href="https://www.linkedin.com/in/wanmohdhafizwanidris/">LinkedIn</a> 
 </p>
 
 ---
