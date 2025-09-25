@@ -1,4 +1,4 @@
-<h1 align="center">Wan Mohd Hafiz Bin Wan Idris</h1>
+<h1 align="center">Wan Hafiz Wan Idris</h1>
 
 <p align="center">
   <b>Blockchain Engineer • Smart Contracts (Solidity/Rust) • Web3 Startup Operator</b><br/>
