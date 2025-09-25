@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Blockchain Engineer • Smart Contracts (Solidity/Rust) • Web3 Startup Operator</b><br/>
-  XRP advocate since 2017 • Ex-Founder/CEO (Lokein) • SEA gov/corporate partnerships
+  XRP advocate since 2017 • Founder/CEO of Saas Startup • SEA gov/corporate partnerships
 </p>
 
 <p align="center">
