@@ -31,8 +31,6 @@
 
 > Pinned repos below contain READMEs with setup, commands, and test coverage.
 
-### 📫 Contact
-- Email: **hafiz@lokein.com**
 - Open to **Remote** roles: Senior/Staff **Solidity/Rust Engineer**, **Smart Contract/Protocol**, or **Auditor**.
 
 ---
