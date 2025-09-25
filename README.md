@@ -5,10 +5,6 @@
   XRP advocate since 2017 • Founder & CEO of Saas Startup • SEA gov/corporate partnerships
 </p>
 
-<p align="center">
-  🔗 <a href="https://www.linkedin.com/in/wanmohdhafizwanidris/">LinkedIn</a> 
-</p>
-
 ---
 
 ### 👋 About me
