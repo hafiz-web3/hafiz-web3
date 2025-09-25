@@ -39,8 +39,3 @@
 - Open to **Remote** roles: Senior/Staff **Solidity/Rust Engineer**, **Smart Contract/Protocol**, or **Auditor**.
 
 ---
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hafiz-web3" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hafiz-web3&show_icons=true&count_private=true" alt="Stats" />
-</p>
