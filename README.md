@@ -15,7 +15,7 @@
 
 ### 🔧 Tech
 `Solidity` · `Rust` · `TypeScript` · `Node.js` · `React/Next.js` · `Foundry` · `Hardhat` · `OpenZeppelin` · `ethers.js/viem`  
-`Chainlink` · `ERC-20/721/1155` · `GraphQL` · `PostgreSQL` · `Docker` · `AWS` · `CI/CD`
+`Chainlink` · `ERC-20/721/1155` · `GraphQL` · `PostgreSQL` · `Docker` · `AWS` · `CI/CD` · `C++`
 
 ### 🚀 Highlighted projects
 - **chainlink-oracle-consumer** – Minimal examples consuming price feeds & VRF; patterns for safe oracle usage.
