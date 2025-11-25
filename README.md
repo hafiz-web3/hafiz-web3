@@ -18,7 +18,7 @@
 `Chainlink` · `ERC-20/721/1155` · `GraphQL` · `PostgreSQL` · `Docker` · `AWS` · `CI/CD` · `C++`
 
 ### 🚀 Highlighted projects
-- **xrpl-rust-wasm-demo** – XRPL-style Rust + WASM ledger demo showing state transitions, JSON serialization, and wasm-bindgen exposure (for Ripple C++/Rust role).
+- **xrpl-rust-wasm** – XRPL-style Rust + WASM ledger demo showing state transitions, JSON serialization, and wasm-bindgen exposure (for Ripple C++/Rust role).
 - **chainlink-oracle-consumer** – Minimal examples consuming price feeds & VRF; patterns for safe oracle usage.
 - **defi-vault-foundry** – ERC-4626 style vault (deposit/withdraw, share accounting, reentrancy-safe) with tests.
 - **solana-staking-anchor** – SPL staking program (Rust/Anchor) with on-chain tests.
